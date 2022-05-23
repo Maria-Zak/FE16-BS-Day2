@@ -1,0 +1,13 @@
+.first {
+    background-color: rgb(196, 196, 196);
+}
+
+.second {
+    background-color: rgb(149, 134, 134);
+}
+
+img {
+    width: 500px;
+    height: 400px;
+    object-fit: cover;
+}
